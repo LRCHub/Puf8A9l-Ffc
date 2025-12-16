@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Candy loss",
+  "base_artist": "susumu.",
+  "createdAt": "2025-12-16T14:30:43.376266Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Candy loss",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_Candy_loss_susumu..txt"
+    }
+  ]
+}
